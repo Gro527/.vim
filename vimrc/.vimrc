@@ -9,6 +9,12 @@ set expandtab
 syn on
 filetype on
 set encoding=utf-8
+set cursorline
 
 colorscheme one
 set background=dark
+
+map s <nop>
+map S :w<CR>
+map Q :q<CR>
+map R :source $MYVIMRC<CR>

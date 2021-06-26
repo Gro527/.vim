@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/data08/home/guhaoping/zsh'
+let g:netrw_dirhist_2='/data08/home/guhaoping/.oh-my-zsh'
+let g:netrw_dirhist_3='/data08/home/guhaoping/.oh-my-zsh/.git'
+let g:netrw_dirhist_4='/data08/home/guhaoping/.vim/vimrc'
